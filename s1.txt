@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ssssssstin khung
+=======
+sssssss1111111111111111
+>>>>>>> test2
